@@ -10,4 +10,9 @@ let goalSynopsis = "";
 //
 let goalDesc = "";
 //
+let email = [];
+//
+let progressCalendar = {};
+//
+
 
