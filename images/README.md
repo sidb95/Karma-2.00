@@ -1,0 +1,1 @@
+All the image files reside here in the *images* folder.
