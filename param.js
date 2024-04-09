@@ -2,7 +2,7 @@ let renderText = false;
 //
 let renderImages = false;
 //
-let goalNumber = "2";
+let goalNumber = "";
 //
 let goalTitle = "";
 //
@@ -14,5 +14,6 @@ let email = [];
 //
 let progressCalendar = {};
 //
+let website = [];
 
 
