@@ -1,0 +1,11 @@
+{
+    "goalTitle" : "Goal #", 
+    "goalDesc" : "", 
+    "goalSynopsis" : "Goal Synopsis: A template maker.", 
+    "email" : ["sbhatore95@gmail.com", "bhatoresiddharth@gmail.com"],
+    "website" : ["https://credi-risk-eval.herokuapp.com"],
+    "progressCalendar" : "{}",
+    "goalNumber" : "",
+    "params" : ["goalTitle", "goalDesc", "goalSynopsis", "email", 
+    "website", "progressCalendar", "goalNumber"]
+}
