@@ -1,0 +1,1 @@
+All the .js files helping in rendering content in the index.html (except app.js) reside here.
