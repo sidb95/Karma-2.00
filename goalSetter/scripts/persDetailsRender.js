@@ -1,9 +1,9 @@
 function persDetailsRender(data) {
     if(!renderText) return;
     //
-    var tagGroupA = document.getElementsByClassName('left-column');
-    var groupA = document.getElementById("goalNumbering");
-    var tagGroups = [tagGroupA];
+    var tagGroupA = document.getElementsByClassName("left-column");
+    var tagGroupB = document.getElementsByClassName("goal");
+    var tagGroups = [tagGroupA, tagGroupB];
     //
     //
     arr = data["params"];
@@ -17,8 +17,5 @@ function persDetailsRender(data) {
                 count++;
             }
         }
-    }
-    function goalNumberRender(goalNumber) {
-        groupA.innerHTML = goalNumber;
     }
 }
