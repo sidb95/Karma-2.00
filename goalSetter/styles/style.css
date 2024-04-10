@@ -4,4 +4,13 @@ footer{
     vertical-align: baseline;
     align-content: center;
     margin-left: 45%;
-}
+};
+
+.dp {
+    width: 20%;
+    height: 20%;
+};
+
+#btn_one {
+    float: left;
+};
